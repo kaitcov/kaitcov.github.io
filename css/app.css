@@ -1,5 +1,6 @@
 body {
-	background: url('../img/space-wallpaper-5.jpg') no-repeat center center fixed;
+	/*background: url('../img/space-wallpaper-5.jpg') no-repeat center center fixed; */
+	background-color: gray !important;
 }
 
 .container{
@@ -8,17 +9,18 @@ body {
 }
 
 .layer{
-	background-color: rgba(0, 0, 0, 0.3);
+	/*background-color: rgba(0, 0, 0, .3);
 	height: 100vh;
-	width: 100vw;
+	width: 100vw;*/
 }
 
+
 .my-name {
-	color: white;
+	color: black;
 }
 
 .lead{
-	color: white;
+	color: black;
 }
 
 img.hover{
