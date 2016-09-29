@@ -1,0 +1,40 @@
+body {
+	/*background: url('../img/space-wallpaper-5.jpg') no-repeat center center fixed; */
+	background-color: gray !important;
+}
+
+.container{
+	padding-top: 5%;
+	text-align: center;
+}
+
+.layer{
+	/*background-color: rgba(0, 0, 0, .3);
+	height: 100vh;
+	width: 100vw;*/
+}
+
+
+.my-name {
+	color: black;
+}
+
+.lead{
+	color: black;
+}
+
+img.hover{
+	margin-top:15px;
+	margin-left:5px;
+	margin-right:5px;
+	-webkit-transition: margin 0.35s;
+}	
+
+img.hover:hover{
+	cursor:pointer;
+	margin-top: 5px;
+}
+
+a{
+	text-decoration: none !important;
+}
